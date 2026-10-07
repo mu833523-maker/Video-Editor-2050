@@ -15,7 +15,7 @@ jobs:
 
       - name: Unzip project code
         run: |
-          cp google-services.json /tmp/gs.json
+          cp "google-services (10).json" /tmp/gs.json
           mkdir tmp_unzip
           unzip -q -o video-editor-2050-*.zip -d tmp_unzip
           if [ "$(ls tmp_unzip | wc -l)" -eq 1 ] && [ -d "tmp_unzip/$(ls tmp_unzip)" ]; then
