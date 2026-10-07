@@ -13,6 +13,21 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Unzip project code
+        run: |
+          cp google-services.json /tmp/gs.json
+          mkdir tmp_unzip
+          unzip -q -o video-editor-2050-*.zip -d tmp_unzip
+          if [ "$(ls tmp_unzip | wc -l)" -eq 1 ] && [ -d "tmp_unzip/$(ls tmp_unzip)" ]; then
+            cp -a "tmp_unzip/$(ls tmp_unzip)/." .
+          else
+            cp -a tmp_unzip/. .
+          fi
+          mkdir -p app
+          cp /tmp/gs.json app/google-services.json
+          ls -la
+          ls -la app
+
       - name: Set up JDK 17
         uses: actions/setup-java@v4
         with:
