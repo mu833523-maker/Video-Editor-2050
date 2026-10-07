@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "646056454469",
+    "project_id": "video-editor-2050",
+    "storage_bucket": "video-editor-2050.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646056454469:android:d87fefda95bba26decb62c",
+        "android_client_info": {
+          "package_name": "com.aistudio.videoeditor2050.vxfpr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646056454469-ohi3nkumt35irjsfsalj8gdn12ok81ko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB02DGuA8piAfqLke7OocH-rXQpcuvEAJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646056454469-ohi3nkumt35irjsfsalj8gdn12ok81ko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646056454469:android:0532fc1304534c05ecb62c",
+        "android_client_info": {
+          "package_name": "com.example.videoeditor2050"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646056454469-ohi3nkumt35irjsfsalj8gdn12ok81ko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB02DGuA8piAfqLke7OocH-rXQpcuvEAJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646056454469-ohi3nkumt35irjsfsalj8gdn12ok81ko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646056454469:android:17656688755264d5ecb62c",
+        "android_client_info": {
+          "package_name": "com.ve2050.editor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646056454469-ohi3nkumt35irjsfsalj8gdn12ok81ko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB02DGuA8piAfqLke7OocH-rXQpcuvEAJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646056454469-ohi3nkumt35irjsfsalj8gdn12ok81ko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646056454469:android:5e8f8133d33ea639ecb62c",
+        "android_client_info": {
+          "package_name": "com.videoeditor2050.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646056454469-ohi3nkumt35irjsfsalj8gdn12ok81ko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB02DGuA8piAfqLke7OocH-rXQpcuvEAJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646056454469-ohi3nkumt35irjsfsalj8gdn12ok81ko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
